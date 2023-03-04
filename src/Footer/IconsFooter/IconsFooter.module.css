@@ -1,0 +1,22 @@
+.icons {
+    flex-wrap: wrap;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+
+}
+.img{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    text-align: center;
+}
+.img img{
+    height: 60px;
+    width: 60px;
+
+}
+
+
+
